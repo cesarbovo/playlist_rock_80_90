@@ -1,0 +1,16 @@
+REQUISITOS E INSTRUÇÕES PARA EXECUTAR O CÓDIGO  
+
+Ambiente testado em Python 3.13.7
+
+ Bibliotecas padrão utilizadas:
+ Nenhuma instalação extra é necessária — todas as bibliotecas são nativas do Python.
+json é parte do módulo padrão do Python.
+
+INSTRUÇOES PARA EXECUÇÃO:
+1. Certifique-se de ter o Python instalado.
+2. Execute o programa principal com:
+   python playlist.py
+3. O código criará e lerá automaticamente o arquivo playlist.json, se existir.
+
+Dependências externas: nenhuma
+
